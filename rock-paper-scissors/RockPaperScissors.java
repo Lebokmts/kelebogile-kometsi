@@ -11,7 +11,7 @@ public class RockPaperScissors {
 
         while (playAgain) {
             int userWins = 0, computerWins = 0, ties = 0;
-            System.out.println("\n--- Welcome to Rock-Paper-Scissors (Best of 3) ---");
+            System.out.println("\n Welcome to Rock-Paper-Scissors (Best of 3)");
 
             while (userWins < 2 && computerWins < 2) { 
                 String userChoice;
@@ -53,12 +53,12 @@ public class RockPaperScissors {
 
            
             if (userWins == 2) {
-                System.out.println("\n🎉 Congratulations! You won the best of 3 series! 🎉");
+                System.out.println("\n Congratulations! You won the best of 3 series!");
             } else {
-                System.out.println("\n💻 The computer won the best of 3 series. Better luck next time!");
+                System.out.println("\n The computer won the best of 3 series. Better luck next time!");
             }
 
-            System.out.print("\nDo you want to play again? (yes/no): ");
+            System.out.print("\n Do you want to play again? (yes/no): ");
             String response = scanner.nextLine().trim();
             playAgain = response.equalsIgnoreCase("yes");
         }
