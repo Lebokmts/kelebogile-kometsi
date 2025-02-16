@@ -53,5 +53,4 @@ End the game.
 Java
 
 # Requirements
-Java (JDK 8 or higher) 
-A terminal or command prompt
+Java (JDK 8 or higher) and a terminal or command prompt
