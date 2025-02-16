@@ -43,9 +43,18 @@ Otherwise the prompt "You lose!" will be diplayed.
 Repeat the process until the user exits.
 End the game.
 
+# Example of project in action
+
+![Screenshot 2025-02-16 214300](https://github.com/user-attachments/assets/f2fbc361-6346-47c4-84d3-8cb7def6f2b4)
+![Screenshot 2025-02-16 214320](https://github.com/user-attachments/assets/68c5140d-f56e-4e4f-ae22-a86a9dcf72bc)
+
+
+
 # Dependencies
 Java
 
 # Requirements
 Java (JDK 8 or higher) 
 A terminal or command prompt
+
+
