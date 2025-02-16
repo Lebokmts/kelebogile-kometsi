@@ -40,7 +40,7 @@ Generate a random choice for the computer, and compare the user's choice with th
 If both choices are the same, the prompt "It's a tie!" will be displayed.
 If the user wins, the prompt "You win this round!" will be displayed
 Otherwise the prompt "You lose this round!" will be displayed.
-At the end of the round when a winner has been established, the prompt "You won the best of 3!"/"You lost this round!" will be displayed 
+At the end of the round when a winner has been established, the prompt "Congratulations! You won the best of 3 series!"/"The computer won the best of 3 series. Better luck next time!" will be displayed 
 Repeat the process until the user exits.
 End the game.
 
