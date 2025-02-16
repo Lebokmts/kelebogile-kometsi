@@ -63,7 +63,7 @@ public class RockPaperScissors {
             playAgain = response.equalsIgnoreCase("yes");
         }
 
-        System.out.println("Thanks for playing! Goodbye! 👋");
+        System.out.println("Thanks for playing! Goodbye!");
         scanner.close(); 
     }
 }
