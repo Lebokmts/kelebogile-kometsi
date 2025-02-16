@@ -49,12 +49,9 @@ End the game.
 ![Screenshot 2025-02-16 214320](https://github.com/user-attachments/assets/68c5140d-f56e-4e4f-ae22-a86a9dcf72bc)
 
 
-
 # Dependencies
 Java
 
 # Requirements
 Java (JDK 8 or higher) 
 A terminal or command prompt
-
-
