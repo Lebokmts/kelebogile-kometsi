@@ -39,7 +39,7 @@ If the user enters "exit", end the game.
 Generate a random choice for the computer, and compare the user's choice with the computer's choice.
 If both choices are the same the the prompt "It's a tie!" will be displayed.
 If the user wins (based on game rules) the prompt "You win!" will be displayed
-Otherwise the prompt "You lose!" will be diplayed.
+Otherwise the prompt "You lose!" will be displayed.
 Repeat the process until the user exits.
 End the game.
 
