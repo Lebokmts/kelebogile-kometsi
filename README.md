@@ -9,6 +9,10 @@ The players must count aloud to three, or speak the name of the game (e.g. "Rock
 # Game Rules
 A player who decides to play rock will beat another player who has chosen scissors ("rock crushes scissors" or sometimes "blunts scissors"), but will lose to one who has played paper ("paper covers rock"); a play of paper will lose to a play of scissors ("scissors cuts paper"). If both players choose the same shape, the game is tied and is usually immediately replayed to break the tie.
 
+![360_F_214938772_cvWeBGtnd8Gqd7wtp7Cqdp7qRQMhKBCn](https://github.com/user-attachments/assets/f46a9333-6aa2-4547-a41b-3266937095be)
+
+Image Credits: Adobe Stock
+
 # Possible plays
 if (player == rock) and (computer == paper); computer wins
 
@@ -27,3 +31,12 @@ if (player == rock) and (computer == scissors); player wins
 if (player == paper) and (computer == scissors); computer wins
 
 if (player == scissors) and (computer == scissors); tie
+
+# Algorithm
+
+# Dependencies
+Java
+
+# Requirements
+Java (JDK 8 or higher) 
+A terminal or command prompt
