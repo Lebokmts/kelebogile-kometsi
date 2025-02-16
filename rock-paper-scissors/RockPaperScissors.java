@@ -23,7 +23,7 @@ public class RockPaperScissors {
                     if (userChoice.equalsIgnoreCase("Rock") || 
                         userChoice.equalsIgnoreCase("Paper") || 
                         userChoice.equalsIgnoreCase("Scissors")) {
-                        break; // Valid input
+                        break; 
                     } else {
                         System.out.println("Invalid input! Please enter Rock, Paper, or Scissors.");
                     }
