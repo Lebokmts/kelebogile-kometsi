@@ -38,8 +38,9 @@ Prompt the user to enter a choice.
 If the user enters "exit", end the game.
 Generate a random choice for the computer, and compare the user's choice with the computer's choice.
 If both choices are the same, the prompt "It's a tie!" will be displayed.
-If the user wins, the prompt "You win!" will be displayed
-Otherwise the prompt "You lose!" will be displayed.
+If the user wins, the prompt "You win this round!" will be displayed
+Otherwise the prompt "You lose this round!" will be displayed.
+At the end of the round when a winner has been established, the prompt "You won the best of 3!"/"You lost this round!" will be displayed 
 Repeat the process until the user exits.
 End the game.
 
