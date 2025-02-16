@@ -58,6 +58,7 @@ Since this is a console-based program, it does not require external libraries.
 It only uses built-in Java libraries:
 
 java.util.Scanner – To read user input.
+
 java.util.Random – To generate the computer's random choice.
 
 # Requirements
